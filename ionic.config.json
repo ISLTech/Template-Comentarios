@@ -1,0 +1,7 @@
+{
+  "name": "Plantilla-Comentarios",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
